@@ -57,18 +57,31 @@ hotel-reviews/
 
 📸 Screenshots
 Startup and Menu
+
 <img width="269" height="244" alt="Screenshot 2025-11-12 182754" src="https://github.com/user-attachments/assets/a231c1a7-4865-424b-b056-9e168f918172" />
 
+
+
 Reviews by Hotel
+
 <img width="842" height="356" alt="11" src="https://github.com/user-attachments/assets/1710198e-548c-4a19-a6f0-88e787c67ec6" />
 
+
+
 Positive / Negative Pie Chart
+
 <img width="808" height="332" alt="21" src="https://github.com/user-attachments/assets/b3da4060-0afc-4e60-8266-1f42a67f87ce" />
 
+
+
 Reviews by Nationality
+
 <img width="838" height="291" alt="22" src="https://github.com/user-attachments/assets/75123d46-95bd-4e0d-b9d4-29cac578b1fd" />
 
+
+
 Filter Reviews by Date
+
 <img width="538" height="225" alt="3" src="https://github.com/user-attachments/assets/25a880f2-bf87-4dbc-9327-01a155751628" />
 
 
