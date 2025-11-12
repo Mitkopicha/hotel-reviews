@@ -55,18 +55,6 @@ hotel-reviews/
 └── requirements.txt
 
 
-
----
-
-## ▶️ Running the Project
-
-### 1. Create a virtual environment
-```bash
-python -m venv .venv
-.venv\Scripts\Activate.ps1   # (on Windows PowerShell)
-pip install -r requirements.txt
-python src/main.py
-
 📸 Screenshots
 Startup and Menu
 <img width="269" height="244" alt="Screenshot 2025-11-12 182754" src="https://github.com/user-attachments/assets/a231c1a7-4865-424b-b056-9e168f918172" />
@@ -82,6 +70,19 @@ Reviews by Nationality
 
 Filter Reviews by Date
 <img width="538" height="225" alt="3" src="https://github.com/user-attachments/assets/25a880f2-bf87-4dbc-9327-01a155751628" />
+
+
+---
+
+## ▶️ Running the Project
+
+### 1. Create a virtual environment
+```bash
+python -m venv .venv
+.venv\Scripts\Activate.ps1   # (on Windows PowerShell)
+pip install -r requirements.txt
+python src/main.py
+
 
 
 
